@@ -17,7 +17,7 @@
 - 💬 Ask me anything about **Tech, Space, Extraterrestrial's**
 
 - ⚡ Fun fact **I'm Cute 😂**
-- <p><img align="center" src="https://github.com/ShettyBro/ShettyBro/blob/main/pics/400p.gif" width="450" /></p>
+- <p><img align="right" src="https://github.com/ShettyBro/ShettyBro/blob/main/pics/400p.gif" width="450" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
