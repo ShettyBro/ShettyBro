@@ -1,1 +1,1 @@
-<img align="center" alt="gif" width="1080" scr="https://i.giphy.com/media/p5b6EE2MA0HPnIBvqK/giphy.webp" /></p>
+<p><img align="center" src="https://github.com/ShettyBro/ShettyBro/blob/main/pics/ezgif.com-gif-maker.gif" width="1080" height="450" /></p>
