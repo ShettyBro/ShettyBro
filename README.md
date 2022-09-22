@@ -1,19 +1,16 @@
 <p><img align="Center" src="https://github.com/ShettyBro/ShettyBro/blob/main/pics/banner.png" width="2048"  /></p>
-<h1 align="center">Hello👋, MySelf Sudeep Shivashettar</h1>
-<h3 align="center">✨I'm a Student from India✨</h3>
+<h1 align="center">🥷🥷🧑‍💻Sudeep Shivashettar🧑‍💻🥷🥷</h1>
+<h3 align="center">✨💕Thank You For Visiting My Profile💕✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=susshettybro&label=Profile%20views&color=0e75b6&style=flat" alt="susshettybro" /> </p>
+<b align="left">❤️ About Me ❤️</b>
+- 🔭 I’m currently Pursuing B.C.A Degree @ [G.H.Collage Haveri](https://klebcahaveri.com/)
 
-<p align="left"> <a href="https://twitter.com/sudeepshivashe5" target="blank"><img src="https://img.shields.io/twitter/follow/sudeepshivashe5?logo=twitter&style=for-the-badge" alt="sudeepshivashe5" /></a> </p>
-
-- 🔭 I’m currently Studying B.C.A @ [G.H.Collage Haveri](https://klebcahaveri.com/)
-
-- 🌱 I’m currently Working on ** Let it be a Secret 😁😜**
+- 🌱 I’m currently Working on  Let it be a Secret 😁😜
 <img align="right" src="https://media1.giphy.com/media/p5b6EE2MA0HPnIBvqK/giphy.gif" width="450" />
 
-- 👨‍💻 All of my projects are available at [github.com/ShettyBro](github.com/ShettyBro)
+- 👨‍💻 All of my projects are available at [GitHub](github.com/ShettyBro)
 
-- ❤️ Wish To Contact Me Click Here [https://bit.ly/3dM0RE8](https://bit.ly/3dM0RE8)
+- <b>❤️ Wish To Contact Me [Click Here](https://bit.ly/3dM0RE8)
 
 - 💬 Ask me anything about **Tech, Space, Extraterrestrial's 😁**
 
