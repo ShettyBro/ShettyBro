@@ -1,4 +1,4 @@
-
+<p><img align="Center" src="https://github.com/ShettyBro/ShettyBro/blob/main/pics/banner.png" width="1080" /></p>
 <h1 align="center">Hello👋, MySelf Sudeep Shivashettar</h1>
 <h3 align="center">✨I'm a Student from India✨</h3>
 
@@ -8,16 +8,17 @@
 
 - 🔭 I’m currently Studying B.C.A @ [G.H.Collage Haveri](https://klebcahaveri.com/)
 
-- 🌱 I’m currently learning **It's a Secret**
+- 🌱 I’m currently Working on ** Let it be a Secret 😁😜**
+<img align="right" src="https://media1.giphy.com/media/p5b6EE2MA0HPnIBvqK/giphy.gif" width="450" />
 
 - 👨‍💻 All of my projects are available at [github.com/ShettyBro](github.com/ShettyBro)
 
 - ❤️ Wish To Contact Me Click Here [https://bit.ly/3dM0RE8](https://bit.ly/3dM0RE8)
 
-- 💬 Ask me anything about **Tech, Space, Extraterrestrial's**
+- 💬 Ask me anything about **Tech, Space, Extraterrestrial's 😁**
 
 - ⚡ Fun fact **I'm Cute 😂**
-- <p><img align="right" src="https://github.com/ShettyBro/ShettyBro/blob/main/pics/400p.gif" width="450" /></p>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -40,5 +41,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shettybro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shettybro" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shettybro&show_icons=true&locale=en&layout=compact" alt="shettybro" /></p>
+<p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shettybro&show_icons=true&locale=en&layout=compact" alt="shettybro" /></p>
