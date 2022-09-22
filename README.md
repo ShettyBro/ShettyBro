@@ -1,4 +1,4 @@
-<p><img align="Center" src="https://github.com/ShettyBro/ShettyBro/blob/main/pics/banner.png" width="1080" /></p>
+<p><img align="Center" src="https://github.com/ShettyBro/ShettyBro/blob/main/pics/banner.png" width="2048"  /></p>
 <h1 align="center">Hello👋, MySelf Sudeep Shivashettar</h1>
 <h3 align="center">✨I'm a Student from India✨</h3>
 
