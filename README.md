@@ -6,7 +6,6 @@
 - 🔭 I’m currently Pursuing B.C.A Degree @ [G.H.Collage Haveri](https://klebcahaveri.com/)
 
 - 🌱 I’m currently Working on  Let it be a Secret 😁😜
-<img align="right" src="https://user-images.githubusercontent.com/109416576/191849071-e3140e74-3b8b-4328-bfb6-dd16d91b31c1.png" width="400"  />
 
 - 👨‍💻 All of my projects are available at [GitHub](github.com/ShettyBro)
 
