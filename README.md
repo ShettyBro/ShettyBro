@@ -1,19 +1,20 @@
 <p><img align="Center" src="https://github.com/ShettyBro/ShettyBro/blob/main/pics/banner.png" width="2048"  /></p>
-<h1 align="center">🥷🥷🧑‍💻Sudeep Shivashettar🧑‍💻🥷🥷</h1>
+<h1  align="center"> 🥷🥷🧑‍💻Sudeep Shivashettar🧑‍💻🥷🥷</h1>
 <h3 align="center">✨💕Thank You For Visiting My Profile💕✨</h3>
 
 <b align="left">❤️ About Me ❤️</b>
-- 🔭 I’m currently Pursuing B.C.A Degree @ [G.H.Collage Haveri](https://klebcahaveri.com/)
-
-- 🌱 I’m currently Working on  Let it be a Secret 😁😜
-
+🔭 I’m currently Pursuing B.C.A Degree @ [G.H.Collage Haveri](https://klebcahaveri.com/)
+ 
+ -🌱 I’m currently Working on  Let it be a Secret 😁😜
+ 
 - 👨‍💻 All of my projects are available at [GitHub](github.com/ShettyBro)
 
-- <b>❤️ Wish To Contact Me [Click Here](https://bit.ly/3dM0RE8)
+ <table><tr><td><b>❤️ Wish To Contact Me❤️
+ <p>[👉 Click Here 👈] </td></tr></table>(https://bit.ly/3dM0RE8)
 
-- 💬 Ask me anything about **Tech, Space, Extraterrestrial's 😁**
+<p align= "center"> 💬 Ask me anything about **Tech, Space, Extraterrestrial's 😁**
 
-- ⚡ Fun fact **I'm Cute 😂**
+<p align= "center">⚡ Fun fact I'm Cute 😂
 
 
 
