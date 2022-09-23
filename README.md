@@ -1,6 +1,6 @@
 <p>______________________________________________________________________________________________________________________________________________________________</p>
 
-<p><img align="Center" src="https://github.com/ShettyBro/ShettyBro/blob/main/pics/banner.png" width="2048" border="10" /></p>
+<p><img align="Center" src="https://github.com/ShettyBro/ShettyBro/blob/main/pics/banner.png" width="2048" border="4" /></p>
 ______________________________________________________________________________________________________________________________________________________________
 <h1  align="center"> 🥷🥷🧑‍💻Sudeep Shivashettar🧑‍💻🥷🥷</h1>
 
