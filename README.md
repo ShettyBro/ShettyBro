@@ -1,8 +1,16 @@
+______________________________________________________________________________________________________________________________________________________________
 <p><img align="Center" src="https://github.com/ShettyBro/ShettyBro/blob/main/pics/banner.png" width="2048" border="10" /></p>
+______________________________________________________________________________________________________________________________________________________________
 <h1  align="center"> 🥷🥷🧑‍💻Sudeep Shivashettar🧑‍💻🥷🥷</h1>
-<h3 align="center">✨💕Thank You For Visiting My Profile💕✨</h3>
 
-<h4 align="left">❤️ About Me ❤️</h4>
+ <h3 align="center"><ins> <td><tr><table>✨💕Thank You For Visiting My Profile💕✨ </td></tr></table></ins></h3>
+
+______________________________________________________________________________________________________________________________________________________________
+
+
+![Profile views](https://gpvc.arturio.dev/ShettyBro)
+
+<p align="left"> ❤️ About Me ❤️</p><p></p>
 
 - 🔭 I’m currently Pursuing B.C.A Degree at <b>[G.H.Collage Haveri](https://klebcahaveri.com) </b>
 
@@ -17,6 +25,7 @@
 
 
 
+<p>______________________________________________________________________________________________________________________________________________________________</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,11 +41,16 @@
 <a href="https://www.hackerearth.com/@sudeepshivashettar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sudeepshivashettar" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/sudeepshiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sudeepshiva" height="30" width="40" /></a>
 </p>
+<p>______________________________________________________________________________________________________________________________________________________________</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
+<p>______________________________________________________________________________________________________________________________________________________________</p>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shettybro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shettybro" /></a></p><br><br>
-<p>
+
+______________________________________________________________________________________________________________________________________________________________
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shettybro&show_icons=true&locale=en&layout=compact" alt="shettybro" /></p>
