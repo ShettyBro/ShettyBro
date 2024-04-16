@@ -54,4 +54,4 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________________________________
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shettybro&show_icons=true&locale=en&layout=compact" alt="shettybro" /></p>
+<p><img align="left" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShettyBro)](https://github.com/anuraghazra/github-readme-stats)" alt="shettybro" /></p>
