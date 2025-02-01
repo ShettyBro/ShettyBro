@@ -1,12 +1,12 @@
-<p align="center">__________________________________________________________________________________________________________________________________________________</p>
+<p align="center">_______________________________________________________________________________________________________________________________________________________</p>
 
 <p><img align="Center" src="https://github.com/ShettyBro/ShettyBro/blob/main/pics/banner.png" width="2048" border="1" /></p>
-<p align="center">__________________________________________________________________________________________________________________________________________________</p>
+<p align="center">_______________________________________________________________________________________________________________________________________________________</p>
 <h1  align="center"> 🥷🥷🧑‍💻Sudeep Shivashettar🧑‍💻🥷🥷</h1>
 
  <h3 align="center"> <td><tr><table>✨💕Thank You For Visiting My Profile💕✨ </td></tr></table></h3>
 
-<p align="center">__________________________________________________________________________________________________________________________________________________</p>
+<p align="center">_______________________________________________________________________________________________________________________________________________________</p>
 
 
 
@@ -25,7 +25,7 @@
 
 
 
-<p align="center">__________________________________________________________________________________________________________________________________________________</p>
+<p align="center">_______________________________________________________________________________________________________________________________________________________</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -41,12 +41,12 @@
 <a href="https://www.hackerearth.com/@sudeepshivashettar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sudeepshivashettar" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/sudeepshiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sudeepshiva" height="30" width="40" /></a>
 </p>
-<p align="center">__________________________________________________________________________________________________________________________________________________</p>
+<p align="center">_______________________________________________________________________________________________________________________________________________________</p>
 
 <h3 align="center">Skills & Technologies:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.r-project.org//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cloudflare.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40"/> </a> <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/> </a> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/> </a> </p> 
 
-<p align="center">__________________________________________________________________________________________________________________________________________________</p>
+<p align="center">_______________________________________________________________________________________________________________________________________________________</p>
 
 <h3 align="left">Supportme by :</h3>
 <p ><a  href="https://www.buymeacoffee.com/shettybro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shettybro" /></a></p><br><br>
