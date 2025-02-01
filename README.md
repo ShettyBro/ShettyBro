@@ -54,4 +54,3 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________________________________
   
-<p><img align="left" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShettyBro)](https://github.com/anuraghazra/github-readme-stats)" alt="shettybro" /></p>
