@@ -1,7 +1,9 @@
 <p align="center">_______________________________________________________________________________________________________________________________________________________</p>
 
 <p><img align="Center" src="https://github.com/ShettyBro/ShettyBro/blob/main/pics/banner.png" width="2048" border="1" /></p>
+
 <p align="center">_______________________________________________________________________________________________________________________________________________________</p>
+
 <h1  align="center"> 🥷🥷🧑‍💻Sudeep Shivashettar🧑‍💻🥷🥷</h1>
 
  <h3 align="center"> <td><tr><table>✨💕Thank You For Visiting My Profile💕✨ </td></tr></table></h3>
