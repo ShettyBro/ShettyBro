@@ -22,8 +22,8 @@
 
 - ⚡  Rotaractor 🥰 || Karma Yogi 🚩
   
-- ❤️ Wish To Contact Me❤️<p>  [👉 Click Here 👈](https://bit.ly/3dM0RE8)</b></p>
-<b>
+- ❤️ Wish To Contact Me❤️<p>  [👉 Click Here 👈](https://bit.ly/3dM0RE8) </p>
+  
 
 
 ---
