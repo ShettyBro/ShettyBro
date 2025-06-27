@@ -42,6 +42,7 @@
 <a href="https://www.hackerearth.com/@sudeepshivashettar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sudeepshivashettar" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/sudeepshiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sudeepshiva" height="30" width="40" /></a>
 </p>
+
 ---
 
 <h3 align="center">Skills & Technologies:</h3>
