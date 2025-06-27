@@ -22,7 +22,7 @@
 
 - ⚡  Rotaractor 🥰 || Karma Yogi 🚩
   
-- ❤️ Wish To Contact Me❤️<p>  [👉 Click Here 👈](https://bit.ly/3dM0RE8) </p>
+- ❤️ Wish To Contact Me❤️<p>  [👉 Click Here 👈](https://bit.ly/Sudeep-protfolio) </p>
   
 
 
