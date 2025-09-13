@@ -3,7 +3,7 @@
 <p><img align="Center" src="https://github.com/ShettyBro/ShettyBro/blob/main/pics/banner.png" width="2048" border="1" /></p>
 
 ---
-<h1  align="center"> 🥷🥷🧑‍💻Sudeep Shivashettar🧑‍💻🥷🥷</h1>
+<h1  align="center"> 🥷🥷🧑‍💻Sudeep S🧑‍💻🥷🥷</h1>
 
  <h3 align="center"> <td><tr><table>✨💕Thank You For Visiting My Profile💕✨ </td></tr></table></h3>
 
