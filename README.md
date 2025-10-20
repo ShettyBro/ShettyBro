@@ -20,7 +20,7 @@
 
 - 💬 Ask me anything about **Tech, Space, Extraterrestrial's, Spirituality 😁**
 
-- ⚡  Rotaractor 🥰 || Karma Yogi 🚩
+- ⚡ Karma Yogi 🚩
   
 - ❤️ Wish To Contact Me❤️<p>  [👉 Click Here 👈](https://sudeepbro.works) </p>
   
