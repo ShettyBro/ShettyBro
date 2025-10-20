@@ -14,7 +14,7 @@
 
 <p align="left"> ❤️ About Me ❤️</p><p></p>
 
-- 🔭 I’m currently Pursuing B.C.A Degree at <b>[ KLE's G.H BCA Collage Haveri](https://klebcahaveri.com) </b>
+- 🔭 I’m currently Pursuing M.C.A Degree at <b>[ Acharya Institute of Technology ](https://www.acharya.ac.in/) </b>
 
 - 👨‍💻 All of my projects are available at <b> [GitHub](github.com/ShettyBro)</b>
 
@@ -22,7 +22,7 @@
 
 - ⚡  Rotaractor 🥰 || Karma Yogi 🚩
   
-- ❤️ Wish To Contact Me❤️<p>  [👉 Click Here 👈](https://bit.ly/Sudeep-protfolio) </p>
+- ❤️ Wish To Contact Me❤️<p>  [👉 Click Here 👈](https://sudeepbro.works) </p>
   
 
 
