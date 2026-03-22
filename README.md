@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=50&lines=Hi+There!+I'm+Sudeep+J.+Shivashettar+👋;Full+Stack+Developer+%7C+AI-Augmented+Engineer;Building+Secure+%26+Scalable+Systems+🚀;Cloud+Infra+%7C+Backend+%7C+Security+Pro+☁️;Currently+Building+Acharya+VTU+Habba+Event+Management+System+🏗️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=Hi+There!+I'm+Sudeep+J.+Shivashettar+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI-Augmented+Engineer;Building+Secure+%26+Scalable+Systems+%F0%9F%9A%80;Cloud+Infra+%7C+Backend+%7C+Security+Pro;Building+Acharya+VTU+Habba+EMS+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
