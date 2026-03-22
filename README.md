@@ -246,7 +246,7 @@ Gudleppa Hallikeri PU College, Haveri *(2020 – 2022)*
 
 | 🎖️ Award / Certification | 🏛️ Issuer | 📅 |
 |:---|:---|:---:|
-| 🏆 Most Enthusiastic President Award | Rotaract District 3171 | June 2024 |
+| 🏆 Most Enthusiastic President Award | Rotaract District 3170 | June 2024 |
 | 🐙 GitHub Global Student Developer | GitHub (Education Pack) | Active |
 | 🔬 Hackathon Participant — TECHNOVA 2K25 | KLE Society | March 2025 |
 | 📖 Rotary Leadership Institute (Part 1) | Rotary International | Jan 2024 |
