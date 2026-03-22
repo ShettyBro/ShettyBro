@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Hi+There!+I'm+Sudeep+J.+Shivashettar+👋;Full+Stack+Developer+%7C+AI-Augmented+Engineer;Building+Secure+%26+Scalable+Systems+🚀;Cloud+Infra+%7C+Backend+%7C+Security+Pro+☁️;GFG+Campus+Mantri+%40+AIT+🌿;Currently+Building+VTU+Fest+🏗️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=50&lines=Hi+There!+I'm+Sudeep+J.+Shivashettar+👋;Full+Stack+Developer+%7C+AI-Augmented+Engineer;Building+Secure+%26+Scalable+Systems+🚀;Cloud+Infra+%7C+Backend+%7C+Security+Pro+☁️;Currently+Building+Acharya+VTU+Habba+Event+Management+System+🏗️)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,14 +31,14 @@
 
 <div align="center">
 
-<!-- CodeXShetty Brand Block -->
+<!-- CodeXShetty Identity Block -->
 <img src="https://raw.githubusercontent.com/ShettyBro/ShettyBro/main/pics/codexshetty_logo.png" width="90" alt="CodeXShetty Logo" />
 
-### `< X >` &nbsp; The **CodeXShetty** Brand
+### `< X >` &nbsp; The **CodeXShetty** Identity
 
 *Code · Execute · Ship — that's the X factor.*
 
-> **CodeXShetty** is my developer brand — the identity I build under across every platform.
+> **CodeXShetty** is my developer identity — the handle I build under across every platform.
 > You'll find me as **ShettyBro** on GitHub, **SudeepBro** on my portfolio, and **@CodeXShetty** everywhere else.
 > The `<X>` logo represents the intersection of **Code** (the `< >` brackets) and the unknown variable — **X** —
 > always learning, always shipping, always pushing limits.
@@ -62,8 +62,7 @@
 │   location   :  📍 Bengaluru, Karnataka, India         │
 │   education  :  MCA @ Acharya Institute of Technology  │
 │                 (2025 – 2027)                           │
-│   role       :  Full Stack Dev Intern · GFG Campus     │
-│                 Mantri · Rotaractor                     │
+│   role       :  Full Stack Dev Intern · Rotaractor     │
 │   focus      :  Backend · Cloud Infra · Security       │
 │   ai toolkit :  Claude · ChatGPT · Gemini · Cursor     │
 │   status     :  ✅ Open to Work — Full-time/Freelance  │
@@ -74,7 +73,7 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-> 🚀 I'm an **AI-Augmented Full Stack Developer** who ships **secure, scalable solutions fast** by blending traditional engineering discipline with cutting-edge AI tools. Currently building **VTU Fest** — a production-grade event management system serving university-level cultural fests across VTU.
+> 🚀 I'm an **AI-Augmented Full Stack Developer** who ships **secure, scalable solutions fast** by blending traditional engineering discipline with cutting-edge AI tools. Currently building **Acharya VTU Habba Event Management System** — a production-grade event management system serving university-level cultural fests across VTU.
 >
 > I specialize in **backend systems, cloud infrastructure, and security hardening**. Whether it's architecting a serverless OTT platform on Azure, spinning up Docker containers, or writing clean RESTful APIs in Node.js — I build things that actually work in production.
 
@@ -101,7 +100,7 @@
 ║  🔐  Make security a first-class concern: DNS hardening, ║
 ║       VPN setups, auth systems, and zero-trust infra.    ║
 ║                                                          ║
-║  🌍  Build the CodeXShetty brand into a recognized      ║
+║  🌍  Build the CodeXShetty identity into a recognized   ║
 ║       voice in the Indian developer ecosystem through    ║
 ║       open-source, content, and community leadership.    ║
 ║                                                          ║
@@ -170,11 +169,11 @@
 
 | 🚀 Project | 📝 Description | 🧰 Stack | 🔗 |
 |:---|:---|:---|:---:|
-| **VTU Fest** | Production event management system — QR check-in, seat tracking, college admin dashboards, payment verification, ID card generation | React · Node.js · PostgreSQL · Azure | [Live ↗](https://vtufest2026.acharyahabba.com/) |
+| **Acharya VTU Habba Event Management System** | Production event management system — QR check-in, seat tracking, college admin dashboards, payment verification, ID card generation | React · Node.js · PostgreSQL · Azure | [Live ↗](https://vtufest2026.acharyahabba.com/) |
 | **FilmyAdda** | Serverless OTT platform with JWT auth, Azure Blob Storage, Netlify Functions. Clean streaming architecture | Azure SQL · Netlify · JWT | [Live ↗](https://filmyadda-srverless.netlify.app/) · [Repo ↗](https://github.com/ShettyBro/Fillmyadda-2.0-serverless) |
 | **CPU Scheduling Simulator** | Interactive OS visualizer covering FCFS, SJF, Round Robin, Priority — with live Gantt charts | React · Algorithms | [Live ↗](https://scheduling-simulator-bice.vercel.app/) · [Repo ↗](https://github.com/ShettyBro/scheduling-simulator) |
 | **MealDB** | Full-featured CRUD recipe management platform with JWT auth, serverless backend | Azure SQL · Netlify · Node.js | [Live ↗](https://mealdbs.netlify.app/) · [Repo ↗](https://github.com/ShettyBro/MealDB) |
-| **Bulk QR Generator** | Enterprise-grade Node.js CLI that generates thousands of QR codes in bulk — used in VTU Fest | Node.js · CLI | [Repo ↗](https://github.com/ShettyBro/Bulk-QR-Generator) |
+| **Bulk QR Generator** | Enterprise-grade Node.js CLI that generates thousands of QR codes in bulk — used in Acharya VTU Habba Event Management System | Node.js · CLI | [Repo ↗](https://github.com/ShettyBro/Bulk-QR-Generator) |
 | **The Project Calus** | My first-ever project — 27 mathematical operations CLI written in pure C 🎉 | C · CLI | [Repo ↗](https://github.com/ShettyBro/The-Project-Calus) |
 
 </div>
@@ -206,10 +205,7 @@
 ### 🧑‍💻 Professional
 
 **Full Stack Developer Intern** @ AIT *(Sep 2024 – Present)*
-> Building VTU Fest — a production-grade university event management platform with cloud infra, QR systems, real-time dashboards, and payment gateway integration.
-
-**GFG Campus Mantri** — GeeksforGeeks @ AIT *(Feb 2025 – Present)*
-> Official campus ambassador promoting structured CS learning, competitive programming workshops, and DSA bootcamps among 500+ students.
+> Building Acharya VTU Habba Event Management System — a production-grade university event management platform with cloud infra, QR systems, real-time dashboards, and payment gateway integration.
 
 </td>
 <td width="50%" valign="top">
@@ -287,8 +283,8 @@ Gudleppa Hallikeri PU College, Haveri *(2020 – 2022)*
 🤖 I leverage AI tools strategically to 10x my output.
 ☁️  From DNS to database to deployment — I own the full stack.
 🔐 Security isn't an afterthought — it's baked in from day one.
-🌱 I'm a community builder: GFG Mantri, Rotaract President, mentor.
-< X > The CodeXShetty brand = Code · Execute · Ship.
+🌱 I'm a community builder: Rotaract President & mentor.
+< X > The CodeXShetty identity = Code · Execute · Ship.
 ```
 
 ---
