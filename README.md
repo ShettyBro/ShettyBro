@@ -169,7 +169,7 @@
 
 | 🚀 Project | 📝 Description | 🧰 Stack | 🔗 |
 |:---|:---|:---|:---:|
-| **Acharya VTU Habba Event Management System** | Production event management system — QR check-in, seat tracking, college admin dashboards, payment verification, ID card generation | React · Node.js · PostgreSQL · Azure | [Live ↗](https://vtufest2026.acharyahabba.com/) |
+| **Acharya VTU Habba Event Management System** | Production EMS with RBAC — QR check-in, seat tracking, college admin dashboards, payment verification, ID card generation, multi-role access control | React · Node.js · PostgreSQL · Azure | [Live ↗](https://vtufest2026.acharyahabba.com/) |
 | **FilmyAdda** | Serverless OTT platform with JWT auth, Azure Blob Storage, Netlify Functions. Clean streaming architecture | Azure SQL · Netlify · JWT | [Live ↗](https://filmyadda-srverless.netlify.app/) · [Repo ↗](https://github.com/ShettyBro/Fillmyadda-2.0-serverless) |
 | **CPU Scheduling Simulator** | Interactive OS visualizer covering FCFS, SJF, Round Robin, Priority — with live Gantt charts | React · Algorithms | [Live ↗](https://scheduling-simulator-bice.vercel.app/) · [Repo ↗](https://github.com/ShettyBro/scheduling-simulator) |
 | **MealDB** | Full-featured CRUD recipe management platform with JWT auth, serverless backend | Azure SQL · Netlify · Node.js | [Live ↗](https://mealdbs.netlify.app/) · [Repo ↗](https://github.com/ShettyBro/MealDB) |
@@ -205,7 +205,7 @@
 ### 🧑‍💻 Professional
 
 **Full Stack Developer Intern** @ AIT *(Sep 2024 – Present)*
-> Building Acharya VTU Habba Event Management System — a production-grade university event management platform with cloud infra, QR systems, real-time dashboards, and payment gateway integration.
+> Building **Acharya VTU Habba Event Management System** — a production-grade EMS with RBAC (Role-Based Access Control), cloud infra, QR check-in, real-time dashboards, and payment gateway integration.
 
 </td>
 <td width="50%" valign="top">
